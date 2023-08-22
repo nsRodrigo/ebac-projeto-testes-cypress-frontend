@@ -6,8 +6,8 @@ export const perfil = {
 };
 
 export const enderecoFaker = {
-  nome: faker.person.firstName("male"),
-  sobreNome: faker.person.lastName("male"),
+  nome: faker.person.firstName(),
+  sobreNome: faker.person.lastName(),
   nomeEmpresa: faker.company.name(),
   pais: "Brasil",
   endereco: faker.location.streetAddress(),
