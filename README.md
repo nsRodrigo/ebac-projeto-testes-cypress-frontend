@@ -16,10 +16,10 @@ Ebac shop: http://lojaebac.ebaconline.art.br/
 
 Via terminal, rode os seguintes comandos:
 ```  
-git clone https://github.com/EBAC-QE/testes-e2e-ebac-shop.git
+git clone https://github.com/nsRodrigo/ebac-projeto-testes-cypress-frontend.git
 ```
 ```
-cd testes-e2e-ebac-shop
+cd ebac-projeto-testes-cypress-frontend
 ```
 
 #### Para instalar as dependencias:
@@ -43,11 +43,6 @@ Após abrir o dasboard, clique na opção "Running integration tests" para rodar
 -Cypress: Framework de automação: https://cypress.io/
 
 -Faker: Biblioteca para geração de massa de dados: https://www.npmjs.com/package/faker
-
-
-### Bom exercício ;) 
-Fábio & José Ernesto
-Qualidade de software
 
 
 
